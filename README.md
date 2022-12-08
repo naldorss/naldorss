@@ -32,4 +32,4 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/naldorss/count.svg" /></p>
 
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/naldorss/naldorss/blob/output/github-contribution-grid-snake.svg)
