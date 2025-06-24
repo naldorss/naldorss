@@ -35,7 +35,7 @@
 
 <div align="center">
   <h2>👋 Seja bem-vindo(a) ao meu GitHub!</h2>
-  <p>Sou Ronaldo de Souza e Silva, Analista de Dados em transição de carreira com sólida base técnica e foco em transformar dados em decisões estratégicas.</p>
+  <p>Sou Ronaldo de Souza e Silva, técnico em automação logística com mais de 10 anos de experiência e atualmente em transição para a área de dados. Desde 2023 atuo como freelancer em projetos de BI, desenvolvendo dashboards e soluções de dados com Power BI, Qlik Sense, SQL e dbt para empresas dos setores público e privado.</p>
 </div>
 
 ---
@@ -50,7 +50,7 @@
 Trabalho com ferramentas como:
 - Power BI, Qlik Sense
 - SQL, Python, dbt
-- Amazon RDS, Google Drive, APIs
+<!-- - Amazon RDS, Google Drive, APIs -->
 - GitHub, Power Query, Excel/CSV
 
 ---
