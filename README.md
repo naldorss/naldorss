@@ -94,5 +94,5 @@ Dashboards para setores financeiros, estoque, produção e ANVISA/DOU com Qlik S
 <p align="center">
   <img src="https://profile-counter.glitch.me/naldorss/count.svg" />
 </p>
-![snake gif](https://github.com/naldorss/naldorss/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/naldorss/naldorss/blob/output/github-contribution-grid-snake.svg) -->
 
